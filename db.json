@@ -15,6 +15,12 @@
       "day": "",
       "reminder": false,
       "id": 3
+    },
+    {
+      "text": "aaa",
+      "day": "Thur",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
